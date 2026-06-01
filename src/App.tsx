@@ -36,13 +36,13 @@ function App() {
   const featuredPieces = [
     {
       title: 'Small Bonsais',
-      price: '$20 - $45',
+      price: '$35 - $55',
       size: 'Approx. 5-8" tall • 1-3" wide',
       images: [image5, smallTree],
     },
     {
       title: 'Medium  Bonsais',
-      price: '$50 - $125',
+      price: '$70 - $125',
       size: 'Approx. 12-18" tall • 5-10" wide',
       images: [image4, mediumTree, image1, image0],
     },
