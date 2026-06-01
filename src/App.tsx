@@ -2,6 +2,7 @@ import largeTree from './assets/4927ECE3-FF41-48E2-8DA9-83DB5243301F.PNG';
 import resinRiver from './assets/image2-2.jpg';
 import mediumTree from './assets/image3-2.jpg';
 import smallTree from './assets/image6-2.jpg';
+import newTree from "./assets/Newtree.webp";
 
 import image0 from './assets/image0.jpg';
 import image1 from './assets/image1.jpg';
@@ -49,7 +50,7 @@ function App() {
       title: 'Large  Bonsais',
       price: '$150 - $180+',
       size: 'Approx. 20+ inches tall • 10+ inches wide',
-      images: [image2, largeTree],
+      images: [newTree, image2, largeTree],
     },
   ];
 
