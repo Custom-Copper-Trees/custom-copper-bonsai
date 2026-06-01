@@ -126,7 +126,7 @@ function App() {
         </p>
 
         <a
-          href="https://instagram.com/YOUR_INSTAGRAM"
+          href="https://instagram.com/custom_copper_trees"
           target="_blank"
           rel="noreferrer"
           style={{
@@ -291,7 +291,7 @@ function App() {
         </p>
 
         <a
-          href="https://instagram.com/YOUR_INSTAGRAM"
+          href="https://instagram.com/custom_copper_trees"
           target="_blank"
           rel="noreferrer"
           style={{
